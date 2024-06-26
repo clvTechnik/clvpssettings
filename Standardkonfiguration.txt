@@ -1,0 +1,40 @@
+{
+  "customPresetColors": [
+    "F5821F",
+    "F79848",
+    "FAAF71",
+    "FCC89C",
+    "FEE1C8",
+    "00AEEF",
+    "01BAF1",
+    "40C7F4",
+    "8DD7F7",
+    "C5EAFA",
+    "FFF103",
+    "FFF350",
+    "FFF685",
+    "FFF8AE",
+    "FFFCD6",
+    "01A54F",
+    "1DB26A",
+    "65C18B",
+    "9AD3AE",
+    "CBE6D3"
+  ],
+  "defaultVertexStyle": {
+    "fontFamily": "Century Gothic",
+    "edgeStyle": "orthogonalEdgeStyle",
+    "jumpStyle": "arc",
+    "jettySize": "4"
+  },
+  "defaultEdgeStyle": {
+    "fontFamily": "Century Gothic",
+    "edgeStyle": "orthogonalEdgeStyle",
+    "jumpStyle": "arc",
+    "jettySize": "4",
+    "rounded": "0",
+    "curved": "0",
+    "endArrow": "none",
+    "snapToPoint": "1"
+  }
+}
