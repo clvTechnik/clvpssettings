@@ -61,5 +61,12 @@
     "h": 40.99,
     "aspect": "fixed",
     "title": "Huawei Datenlogger"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/c50ef42c-5cc4-4088-b51d-bb161173726f/content;imageAspect=0;lucidId=KGSwoDPPCWAL;fontFamily=Century Gothic;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"8.526512829121202e-14\" y=\"-5.684341886080802e-14\" width=\"19.69\" height=\"23.62\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 19.69,
+    "h": 23.62,
+    "aspect": "fixed",
+    "title": "Deye Dongel"
   }
 ]</mxlibrary>
