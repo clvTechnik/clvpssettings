@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <templates>
-  <clibs name="example">
-    <add>Uhttps://jgraph.github.io/drawio-libs/libs/integration/additional_or_support.xml</add>
-    <add>Uhttps://jgraph.github.io/drawio-libs/libs/integration/ai_machine_learning.xml</add>
+  <clibs name="clevergie">
+    <add>Uhttps://raw.githubusercontent.com/clvTechnik/clvpssettings/refs/heads/main/clvlibrary/Standardsymbole.drawio.xml?token=GHSAT0AAAAAADBDWU37S3CZTB6C2RHOPLUWZ7L7OUQ</add>
+    <add>Uhttps://raw.githubusercontent.com/clvTechnik/clvpssettings/refs/heads/main/clvlibrary/WR.drawio.xml?token=GHSAT0AAAAAADBDWU37U6DG7RAWVTTL4JSKZ7L7PRA</add>
   </clibs>
-  <template section="Title" subsection="Subtitle" url="http://example.com/diagram.xml" title="Diagram" name="Tooltip" preview="https://example.com/diagram.png" libs="general;basic" clibs="example" tags="term1;term2" />
+  <template section="clevergie" subsection="Enphase" url="Uhttps://raw.githubusercontent.com/clvTechnik/clvpssettings/refs/heads/main/standardschemata/Enphase/Standardschema%20Enphase.drawio?token=GHSAT0AAAAAADBDWU37I7SBHHQGSDL3DF32Z7L7QPA" title="Enphase Standardschema" name="Tooltip"  libs="general;basic" clibs="clevergie" tags="term1;term2" />
 </templates>
