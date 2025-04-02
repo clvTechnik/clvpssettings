@@ -4,5 +4,5 @@
     <add>Uhttps://raw.githubusercontent.com/clvTechnik/clvpssettings/refs/heads/main/clvlibrary/Standardsymbole.drawio.xml</add>
     <add>Uhttps://raw.githubusercontent.com/clvTechnik/clvpssettings/refs/heads/main/clvlibrary/WR.drawio.xml</add>
   </clibs>
-  <template section="clevergie" subsection="Enphase" url="https://raw.githubusercontent.com/clvTechnik/clvpssettings/refs/heads/main/standardschemata/Enphase/Standardschema%20Enphase.drawio.xml" title="Enphase Standardschema" name="Tooltip"  libs="general;basic" clibs="clevergie" tags="term1;term2" />
+  <template section="clevergie" subsection="clevergie" url="https://raw.githubusercontent.com/clvTechnik/clvpssettings/refs/heads/main/standardschemata/leere%20Vorlage/Prinzipschema%20Leer.xml" title="Prinzipschema leer" name="Prinzipschema leer"  libs="general;basic" tags="Prinzipschema;leer" />
 </templates>
