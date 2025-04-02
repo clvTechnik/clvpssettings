@@ -1,8 +1,16 @@
 <?xml version="1.0"?>
 <templates>
   <clibs name="clevergie">
+    <add>Uhttps://raw.githubusercontent.com/clvTechnik/clvpssettings/refs/heads/main/clvlibrary/Verbindungen.drawio.xml</add>
     <add>Uhttps://raw.githubusercontent.com/clvTechnik/clvpssettings/refs/heads/main/clvlibrary/Standardsymbole.drawio.xml</add>
     <add>Uhttps://raw.githubusercontent.com/clvTechnik/clvpssettings/refs/heads/main/clvlibrary/WR.drawio.xml</add>
+    <add>Uhttps://raw.githubusercontent.com/clvTechnik/clvpssettings/refs/heads/main/clvlibrary/Batteriespeicher.drawio.xml</add>
+    <add>Uhttps://raw.githubusercontent.com/clvTechnik/clvpssettings/refs/heads/main/clvlibrary/Elektro.drawio.xml</add>
+    <add>Uhttps://raw.githubusercontent.com/clvTechnik/clvpssettings/refs/heads/main/clvlibrary/Ansteuerung.drawio.xml</add>
+    <add>Uhttps://raw.githubusercontent.com/clvTechnik/clvpssettings/refs/heads/main/clvlibrary/ICT.drawio.xml</add>
+    <add>Uhttps://raw.githubusercontent.com/clvTechnik/clvpssettings/refs/heads/main/clvlibrary/Wärme.drawio.xml</add>
+    <add>Uhttps://raw.githubusercontent.com/clvTechnik/clvpssettings/refs/heads/main/clvlibrary/E-Mobi.drawio.xml</add>    
   </clibs>
-  <template section="clevergie" subsection="clevergie" url="https://raw.githubusercontent.com/clvTechnik/clvpssettings/refs/heads/main/standardschemata/leere%20Vorlage/Prinzipschema%20Leer.xml" title="Prinzipschema leer" name="Prinzipschema leer"  libs="general;basic" tags="Prinzipschema;leer" />
+  <template section="clevergie" subsection="clevergie" url="https://raw.githubusercontent.com/clvTechnik/clvpssettings/refs/heads/main/standardschemata/leere%20Vorlage/Prinzipschema%20Leer.xml" clibs="clevergie" title="Prinzipschema leer" name="Prinzipschema leer"  libs="general;basic" tags="Prinzipschema;leer" />
+  <template section="clevergie" subsection="clevergie" url="https://raw.githubusercontent.com/clvTechnik/clvpssettings/refs/heads/main/standardschemata/leere%20Vorlage/Detailschema%20Leer.xml" clibs="clevergie" title="Prinzipschema leer" name="Prinzipschema leer"  libs="general;basic" tags="Prinzipschema;leer" />
 </templates>
